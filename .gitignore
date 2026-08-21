@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local Database & Lakehouse files
+*.db
+data_lake/
+temp_gcp_key.json
+
+# System & IDE files
+.DS_Store
+.vscode/
+.idea/

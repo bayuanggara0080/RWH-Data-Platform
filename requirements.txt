@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+duckdb
+sqlalchemy
+pymysql
+requests
+websocket-client
+plotly
+graphviz
+boto3
+azure-storage-blob
+google-cloud-storage
+openpyxl
+pyarrow
