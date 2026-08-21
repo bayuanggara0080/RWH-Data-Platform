@@ -1,4 +1,4 @@
-# 🇮🇩 GARUDA-OS: Enterprise Distributed Data Mesh & Lakehouse Control Plane
+# 🇮🇩 RWH-OS: Enterprise Distributed Data Mesh & Lakehouse Control Plane
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-OLAP%20Engine-FFF000.svg?style=flat&logo=duckdb&logoColor=black)](https://duckdb.org/)
@@ -7,7 +7,7 @@
 [![Multi-Cloud](https://img.shields.io/badge/Multi--Cloud-AWS%20|%20GCP%20|%20Azure-232F3E.svg?style=flat)](https://aws.amazon.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**GARUDA-OS** adalah platform *Data Engineering Operating System* skala enterprise yang menggabungkan kemampuan pemrosesan streaming berkecepatan sub-detik, *in-memory OLAP analytics*, pemodelan dimensional *Kimball Star Schema*, tata kelola data berbasis enkripsi satu arah (kepatuhan UU PDP & GDPR), orkestrasi pipeline otomatis, serta integrasi *Multi-Cloud Lakehouse* (AWS S3, GCP Storage, Azure Blob).
+**RWH-OS** adalah platform *Data Engineering Operating System* skala enterprise yang menggabungkan kemampuan pemrosesan streaming berkecepatan sub-detik, *in-memory OLAP analytics*, pemodelan dimensional *Kimball Star Schema*, tata kelola data berbasis enkripsi satu arah (kepatuhan UU PDP & GDPR), orkestrasi pipeline otomatis, serta integrasi *Multi-Cloud Lakehouse* (AWS S3, GCP Storage, Azure Blob).
 
 ---
 
